@@ -220,24 +220,6 @@
         "Coding",
         "Design"
       ]
-    },
-    {
-      "id": "60c5",
-      "name": "Daniel Enoch",
-      "title": "Swimmer",
-      "salary": 4000,
-      "phone": "0814-567-8901",
-      "email": "enoch@example.ng",
-      "animal": "fox",
-      "startDate": "2025-02-26",
-      "location": "Makurdi",
-      "department": "Engineering",
-      "skills": [
-        "Swimming",
-        "Dancing",
-        "Reading"
-      ]
-    }
-    
+    }    
   ]
 }
